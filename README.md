@@ -26,3 +26,6 @@ A Python-based research assistant that leverages both OpenAI's GPT-4 and Anthrop
 ## Usage
 
 Run the main script:
+   ```bash
+   python main.py
+   ```
